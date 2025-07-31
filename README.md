@@ -10,4 +10,4 @@ More changes for exercise 3 from the GitHub online editor.
 
 Exercise 4:
 Some changes from feature-1.
-
+Some changes from feature-2.
